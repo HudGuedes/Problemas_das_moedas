@@ -14,6 +14,6 @@ Entre na pasta onde se encontra o código. Execute o seguinte comando:
 <!DOCTYPE html>
 <html>
 <body>
-<img src="img.png" alt="Imagem não carregada" width=270 height=80>
+<img src="img.png" alt="Imagem não carregada" width=300 height=80>
 </body>
 </html>
